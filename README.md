@@ -1,4 +1,4 @@
-(Imagenes/1 Inicio.png)
+![Image](Imagenes/1 Inicio.png)
 
 Link hacia el archivo Power BI:
 
