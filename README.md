@@ -5,13 +5,15 @@ Link hacia el archivo Power BI:
 # **CASO DE NEGOCIO**
 
 ## **OBJETIVO:** 
-Desde la Temporada 1 del 2023 (1 de Abril al 30 de Junio), la empresa 123 cuenta con INDICADOR DIARIO PROMEDIO DE RENDIMIENTO DE HARINA DE PESCADO del 23% (semáforo rojo), la nueva gerencia se ha propuesta incrementar dicho indicador a 24% (semáforo verde) para el 1 de octubre de 2024
+Al 31 de julio de 2024 el INDICADOR MENSUAL DE MARGEN DE CONTRIBUCION POR TONELADA VENDIDA DE GLP ENVASADO PARA LA EMPRESA  ABC es de 620 unidades (soles por tonelada). Para el 31 de diciembre de 2024, se desea incrementar el indicador hasta llegar a un valor de 899 unidades (soles por tonelada vendida).
 
 ## **ESTRATEGIA:** 
-Para lograr este objetivo se plantea implementar una estrategia de mejora tecnológica en el área de "ENFRIAMIENTO" logrando incrementar en promedio 15 TON de producción de Harina de pescado diaria, de una producción promedio de harina 345 TON que corresponde a una cantidad promedio de 1500 TON de materia prima diaria, sin incrementar el requerimiento de materia prima. Se realizará un product update
+Para lograr este objetivo se plantea implementar una estrategia de marketing para aumentar las ventas en la región centro, enfocando la publicidad de la marca LG en el segmento A.
 
 ## **COSTO BENEFICIO:** 
-El costo total de implementación de esta estrategia es de 400 KUSD. Se estima que al cumplir este objetivo en la fecha propuesta, la facturación adicional diaria será de USD 16 500, lo cual sumaria 1.485 Millones de dólares de facturación adicional solamente durante la próxima temporada (del 1 de octubre al 31 de diciembre del 2024- aproximadamente 90 días), posterior a la fecha de cumplimiento del objetivo.
+El costo total de la implementación de marketing en la región centro es de 2,000,000 soles. Se estima que al cumplir este objetivo al 31 de diciembre del 2024, se generaría una facturación adicional de 4 570 020 mensuales, lo cual durante los primeros 12 meses posteriores a la fecha de cumplimiento del objetivo generaría una facturación total adicional de 54.840.240.
+
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/2CasoNegocio.png)
 
 # **INDICADOR**
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/3Indicadores.png)
@@ -22,19 +24,11 @@ El costo total de implementación de esta estrategia es de 400 KUSD. Se estima q
 # **REPORTE**
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/5Reporte.png)
 
-# **CREACIÓN DE TABLAS**
-
-Para la creación de tablas y datos que alimentan el dashboard en POWER BI, se usó la aplicación de SQL Server Management (Ver archivo "SQL_Script.sql").
-Para ello se usaron los datos ubicados en los archivos "datos_2023.xlsx" y "datos_2024.xlsx".
-
-![image]()
-
 # **CONCIDERACIONES POWER BI**
 
 ## **MANEJO DE DATOS DATE** 
-Para gestionar los datos de tipo Fecha, se creó una Tabla Tiempo que permitió ajustar los períodos de análisis al construir las visualizaciones. Dado que el negocio se mide por temporadas, se incluyó una columna para clasificar las temporadas dentro de un año, lo cual fue un aspecto clave para utilizar selectores y responder las diferentes preguntas. Se adjunta el codigo en el archivo TablaTiempo.txt
-
-![image]()
+Para gestionar los datos de tipo Fecha, se creó la Tabla Calendario que permitió ajustar los períodos de análisis al construir las visualizaciones, dado que el negocio se mide por ventas mensuales, lo cual fue un aspecto clave para utilizar segmentadores y responder las diferentes preguntas. Se adjunta el codigo en el archivo 6tablaCalendario.txt
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/6tablaCalendario.png)
 
 # **PANTALLAS DE APLICACIÓN**
 
