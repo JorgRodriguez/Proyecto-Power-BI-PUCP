@@ -24,9 +24,9 @@ El costo total de la implementación de marketing en la región centro es de 2,0
 # **REPORTE**
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/5Reporte.png)
 
-# **CONCIDERACIONES POWER BI**
+# **CONSIDERACIONES POWER BI**
 
-## **MANEJO DE DATOS DATE** 
+## **USO DE FUNCIONES DE FECHA Y HORA** 
 Para gestionar los datos de tipo Fecha, se creó la Tabla Calendario que permitió ajustar los períodos de análisis al construir las visualizaciones, dado que el negocio se mide por ventas mensuales, lo cual fue un aspecto clave para utilizar segmentadores y responder las diferentes preguntas. Se adjunta el codigo en el archivo 6tablaCalendario.txt
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/6tablaCalendario.png)
 
