@@ -33,51 +33,51 @@ Para gestionar los datos de tipo Fecha, se creó la Tabla Calendario que permiti
 # **PANTALLAS DE APLICACIÓN**
 
 ## **PREGUNTA 1** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte1.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta1.png)
 
 La pregunta número 1 tiene como objetivo 
 
 ## **PREGUNTA 2** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte2.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta2.png)
 
 La pregunta número 2 tiene como objetivo 
 
 ## **PREGUNTA 3** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte3.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta3.png)
 
 La pregunta número 3 tiene como objetivo 
  
 ## **PREGUNTA 4** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte4.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta4.png)
 
 La pregunta número 4 busca identificar 
 
 ## **PREGUNTA 5** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte5.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta5.png)
 
 la pregunta número 5 tiene como objetivo 
 
 ## **PREGUNTA 6** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte6.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta6.png)
 
 La pregunta número 6 tiene como objetivo 
 
 ## **PREGUNTA 7** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte7.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta7.png)
 
 La pregunta 7 tiene como finalidad 
 
 ## **PREGUNTA 8** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte8.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta8.png)
 
 La pregunta número 8 busca determinar 
 
 ## **PREGUNTA 9** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte9.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta9.png)
 
 La pregunta número 9 tiene como objetivo 
 
 ## **PREGUNTA 10** 
-![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Reporte10.png)
+![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta10.png)
 
 La pregunta 10 tiene como objetivo 
