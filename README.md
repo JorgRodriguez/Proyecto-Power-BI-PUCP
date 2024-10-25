@@ -35,17 +35,18 @@ Para gestionar los datos de tipo Fecha, se creó la Tabla Calendario que permiti
 ## **PREGUNTA 1** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta1.png)
 
-La pregunta número 1 tiene como objetivo 
+La pregunta número 1 tiene como objetivo determinar cual de las 3 marcas de GLP envasado (LG: Limagas, CAS:Caserito, ZAF: Zafiro) generó el mayor margen de contribución por tonelada en el periodo del 1 de enero al 31 de julio 2024. De acuerdo con el análisis y la gráfica presentada se puede observar que la marca LG Limagas generó un IMMCxt de 1000 soles.
 
 ## **PREGUNTA 2** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta2.png)
 
-La pregunta número 2 tiene como objetivo 
+La pregunta número 2 tiene como objetivo presentar el porcentaje de eficiencia a nivel de gasto respecto al IMMCxt de las tres marcas de GLP envasado entre el periodo del 1 de enero al 31 de julio del 2024.
+La gráfica nos muestra que el producto LG presenta una eficiencia de 55%, seguido de ZAF (50%) y CAS (20%) 
 
 ## **PREGUNTA 3** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta3.png)
 
-La pregunta número 3 tiene como objetivo 
+La pregunta número 3 tiene como objetivo  presentar la marca de GLP envasado con la mayor cantidad de toneladas vendidas en el periodo del 1 de enero al 31 de julio del 2024. Conforme con la visualización del diagrama de barras, se destaca el producto CAS con 7530 toneladas vendidas seguido de la marca ZAF (6150 t) y finalmente LG (2700 t).
  
 ## **PREGUNTA 4** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta4.png)
