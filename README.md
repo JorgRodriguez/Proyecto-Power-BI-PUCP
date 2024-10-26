@@ -66,19 +66,19 @@ La pregunta número 6 tiene como objetivo
 ## **PREGUNTA 7** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta7.png)
 
-La pregunta 7 tiene como finalidad 
+La pregunta 7 tiene como finalidad presentar la evolución proyectada mensualmente del IMMCxt entre julio y diciembre de 2024 para verificar el impacto de la estrategia de marketing respecto al cumplimiento del objetivo en el tiempo estimado.
 
 ## **PREGUNTA 8** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta8.png)
 
-La pregunta número 8 busca determinar 
+La pregunta número 8 busca determinar la región que generó el mayor IMMCxt entre el periodo enero y julio de 2024, lo que nos permitió identificar la locación en la cual se implementará la estrategia de marketing.
 
 ## **PREGUNTA 9** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta9.png)
 
-La pregunta número 9 tiene como objetivo 
+La pregunta número 9 tiene como objetivo identificar el margen de contribución (Ventas-Costos-Gastos) generado a través de las ventas realizadas al público femenino entre enero y julio de 2024 el cual corresponde a 3.5 millones de soles (34.6%).
 
 ## **PREGUNTA 10** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta10.png)
 
-La pregunta 10 tiene como objetivo 
+La pregunta 10 tiene como objetivo determinar el porcentaje de crecimiento acumulado generado durante la implementación de la estrategia de.marketing en la región Centro, el cual asciende a 39 % entre agosto y diciembre de 2024.
