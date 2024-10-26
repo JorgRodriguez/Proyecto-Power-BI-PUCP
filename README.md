@@ -67,11 +67,12 @@ La pregunta número 6 tiene como objetivo
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta7.png)
 
 La pregunta 7 tiene como finalidad presentar la evolución proyectada mensualmente del IMMCxt entre julio y diciembre de 2024 para verificar el impacto de la estrategia de marketing respecto al cumplimiento del objetivo en el tiempo estimado.
+Iniciando en julio con un valor de 620, agosto 700, septiembre 800, octubre 810, noviembre 820 y finalmente llegando a diciembre 899 de IMMCxt.
 
 ## **PREGUNTA 8** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta8.png)
 
-La pregunta número 8 busca determinar la región que generó el mayor IMMCxt entre el periodo enero y julio de 2024, lo que nos permitió identificar la locación en la cual se implementará la estrategia de marketing.
+La pregunta número 8 busca determinar la región que generó el mayor IMMCxt entre el periodo enero y julio de 2024, lo que nos permitió identificar que la locación indicada en la cual se implementará la estrategia de marketing es la región Centro con 675 de IMMCxt.
 
 ## **PREGUNTA 9** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta9.png)
@@ -81,4 +82,4 @@ La pregunta número 9 tiene como objetivo identificar el margen de contribución
 ## **PREGUNTA 10** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta10.png)
 
-La pregunta 10 tiene como objetivo determinar el porcentaje de crecimiento acumulado generado durante la implementación de la estrategia de.marketing en la región Centro, el cual asciende a 39 % entre agosto y diciembre de 2024.
+La pregunta 10 tiene como objetivo determinar el porcentaje de crecimiento acumulado del IMMCxt, generado durante la implementación de la estrategia de marketing en la región Centro, el cual asciende a 39 % entre agosto y diciembre de 2024.
