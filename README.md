@@ -51,17 +51,17 @@ La pregunta número 3 tiene como objetivo  presentar la marca de GLP envasado co
 ## **PREGUNTA 4** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta4.png)
 
-La pregunta número 4 busca identificar 
+La pregunta número 4 busca identificar que tipo de cliente generó el mayor margen de contribución  por tonelada de GLP en el periodo del 01/01/24 al 31/07/2024. Del gráfico presentado se desprende que el tipo de cliente “Persona Jurídica” generó el mayor IMMCxt, obteniendo 657 soles por tonelada vendida, con este resultado podemos dirigir nuestras estrategias de marketing a este tipo de cliente.
 
 ## **PREGUNTA 5** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta5.png)
 
-la pregunta número 5 tiene como objetivo 
+la pregunta número 5 tiene como objetivo conocer cual de nuestros clientes generó el mayor IMMCxt durante el periodo del 01/07/2024 al 31/07/2024, de nuestro análisis obtuvimos que Hector Gamarra generó el mayor IMMCxt, obteniendo 723 soles por tonelada vendida, con esta información implementaremos nuestras estrategias en la fidelización de clientes.
 
 ## **PREGUNTA 6** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta6.png)
 
-La pregunta número 6 tiene como objetivo 
+La pregunta número 6 tiene como objetivo mostrar cual de los 2 segmentos con los cuales contamos en el mercado obtuvo el mayor IMMCxt en el periodo del 01/01/24 al 31/07/24 , al respecto, la gráfica presenta que el segmento B tiene el mayor IMMCxt con el valor de 804  soles  por tonelada vendida.
 
 ## **PREGUNTA 7** 
 ![image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/Pregunta7.png)
