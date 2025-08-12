@@ -1,4 +1,4 @@
-![Image](https://github.com/JorgRodriguez/Proyecto-Power-BI-PUCP/blob/main/Imagenes/1Inicio.png)
+![Image](Imagenes/1Inicio.png)
 
 Link hacia el archivo Power BI:
 
