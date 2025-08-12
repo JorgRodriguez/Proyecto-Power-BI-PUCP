@@ -1,7 +1,5 @@
 ![Image](Imagenes/1Inicio.png)
 
-Link hacia el archivo Power BI:
-
 # **CASO DE NEGOCIO**
 
 ## **OBJETIVO:** 
